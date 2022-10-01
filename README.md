@@ -11,9 +11,11 @@ Bridge for Startups is a platform to support thriving, diverse, and inclusive st
 
 ## Video Demo
 
+[Link to video]()
+
 ## PPT
 
-
+[Link to PPT](https://docs.google.com/presentation/d/1AXzyfVuHp-E58HPe4zFDdVJ9XUUesCPX/edit?usp=sharing&ouid=109528234710057275954&rtpof=true&sd=true)
 
 ## Features
 ***
